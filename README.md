@@ -11,7 +11,7 @@
 
 ## About me
 
-<img align="right" alt="Animated developer working at a TABZ-branded laptop" width="300" src="https://raw.githubusercontent.com/tabishsyed777/tabishsyed777/main/assets/tabz-coding.gif" />
+<img align="right" alt="Animated developer working at a TABZ-branded laptop" width="230" src="https://raw.githubusercontent.com/tabishsyed777/tabishsyed777/main/assets/tabz-coding.gif" />
 
 I build projects to understand how modern technology becomes useful software. My current work explores applied machine learning, reinforcement-learning environments, data systems, cloud-aware automation, agent evaluation, and local-first security tools.
 
@@ -50,6 +50,32 @@ I use AI tools for ideation, coding, debugging, testing, documentation, and GitH
 
 I am interested in opportunities where I can keep learning while contributing to practical AI, data, cloud, automation, and software-engineering work.
 
+## TABZ GitHub dashboard
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabishsyed777&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=transparent" alt="Tabish's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tabishsyed777&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=transparent" alt="Tabish's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabishsyed777&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="Top languages used in Tabish's public repositories" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tabishsyed777&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=5" alt="GitHub profile trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tabishsyed777&amp;theme=tokyonight-duo&amp;hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## Contribution journey
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabishsyed777&amp;bg_color=07152D&amp;color=9FF4E5&amp;line=5C8DFF&amp;point=FFCE70&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tabishsyed777/tabishsyed777/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Tabish's GitHub contribution grid" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/tabishsyed777?tab=followers"><img src="https://img.shields.io/github/followers/tabishsyed777?label=Follow%20the%20journey&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=5C8DFF" alt="GitHub followers" /></a>
+  <a href="https://github.com/tabishsyed777?tab=repositories"><img src="https://komarev.com/ghpvc/?username=tabishsyed777&amp;label=Profile%20views&amp;color=9FF4E5&amp;style=for-the-badge" alt="Profile views" /></a>
 </div>
