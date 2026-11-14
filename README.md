@@ -2,6 +2,14 @@
 
 I build practical software projects and interactive prototypes, with a focus on AI, data, and web applications.
 
+## How I build: AI + automation
+
+I use AI tools for coding, debugging, testing, and documentation. I also use AI tools to upload projects to GitHub and manage repository updates.
+
+My workflow is built around a fully automated setup for routine development and GitHub publishing tasks. I direct what gets built and use automation to handle repetitive steps—from preparing code and README files to committing and pushing updates.
+
+I'm open about using AI in my work. It helps me move quickly, avoid spending time on repetitive manual tasks, and focus on ideas, problem-solving, and improving the projects I build.
+
 ## Selected projects
 
 ### [Pathfinder — AI Website Testing Agent](https://github.com/tabishsyed777/AI-website-testing-agent)
