@@ -11,7 +11,7 @@
 
 ## About me
 
-<img align="right" alt="Animated developer working at a computer" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
+<img align="right" alt="Animated developer working at a TABZ-branded laptop" width="300" src="https://raw.githubusercontent.com/tabishsyed777/tabishsyed777/main/assets/tabz-coding.gif" />
 
 I build projects to understand how modern technology becomes useful software. My current work explores applied machine learning, reinforcement-learning environments, data systems, cloud-aware automation, agent evaluation, and local-first security tools.
 
