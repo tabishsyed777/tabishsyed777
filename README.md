@@ -59,10 +59,10 @@ I am interested in opportunities where I can keep learning while contributing to
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tabishsyed777&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages used in Tabish's public repositories" />
 </div>
 
-### 🏆 TABZ Achievement Vault
+### 🏆 My GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tabishsyed777&amp;theme=gruvbox&amp;column=6&amp;row=2&amp;margin-w=12&amp;margin-h=12&amp;no-frame=false&amp;no-bg=false" alt="Tabish's GitHub achievement trophies" />
+  <img src="https://raw.githubusercontent.com/tabishsyed777/tabishsyed777/main/assets/tabz-achievement-board.png" alt="TABZ achievement board: New Builder, Repository Maker, Commit Momentum, Multi-Stack, Ship It, and Automation First" width="100%" />
 </div>
 
 <div align="center">
