@@ -33,7 +33,9 @@ I use AI tools for ideation, coding, debugging, testing, documentation, and GitH
 | [MigrationGym](https://github.com/tabishsyed777/Migration-gym-RL-) | A custom RL environment for staged SQLite migrations with an independent outcome verifier. |
 | [Prompt Injection Harness](https://github.com/tabishsyed777/prompt-injection-harness-by-tabz) | A safe, local simulator for testing tool-using LLM behavior against prompt-injection fixtures. |
 
-## Building with
+## TABZ Toolkit
+
+<p><em>A practical toolkit for building, testing, documenting, and shipping projects.</em></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,sqlite,linux,html,css,js&amp;theme=dark" alt="Docker, AWS, GitHub Actions, Git, SQLite, Linux, HTML, CSS and JavaScript" />
@@ -57,8 +59,10 @@ I am interested in opportunities where I can keep learning while contributing to
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tabishsyed777&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages used in Tabish's public repositories" />
 </div>
 
+### 🏆 TABZ Achievement Vault
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tabishsyed777&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=5" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tabishsyed777&amp;theme=gruvbox&amp;column=6&amp;row=2&amp;margin-w=12&amp;margin-h=12&amp;no-frame=false&amp;no-bg=false" alt="Tabish's GitHub achievement trophies" />
 </div>
 
 <div align="center">
