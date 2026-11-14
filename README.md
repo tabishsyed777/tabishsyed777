@@ -76,6 +76,14 @@ I am interested in opportunities where I can keep learning while contributing to
   <a href="https://github.com/tabishsyed777?tab=repositories"><img src="https://komarev.com/ghpvc/?username=tabishsyed777&amp;label=Profile%20views&amp;color=9FF4E5&amp;style=for-the-badge" alt="Profile views" /></a>
 </div>
 
+## Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tabish-syed-52970325b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Tabish on LinkedIn" /></a>
+  <a href="https://www.instagram.com/tabish._.syed/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow Tabish on Instagram" /></a>
+  <a href="https://x.com/Tabish_3008"><img src="https://img.shields.io/badge/X-%40Tabish__3008-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow Tabish on X" /></a>
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/tabishsyed777/tabishsyed777/main/assets/tabz-footer.svg" alt="Made by Tabish Syed. Thank you for visiting. Please visit again." width="100%" />
 </div>
