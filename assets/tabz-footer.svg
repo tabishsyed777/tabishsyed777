@@ -1,0 +1,14 @@
+<svg width="960" height="150" viewBox="0 0 960 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer" x1="0" y1="0" x2="960" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#132F57"/><stop offset="1" stop-color="#40205B"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="960" height="150" rx="22" fill="url(#footer)"/>
+  <g fill="#9FF4E5" opacity=".8"><circle cx="86" cy="36" r="3"/><circle cx="164" cy="113" r="4"/><circle cx="816" cy="36" r="3"/><circle cx="885" cy="108" r="4"/></g>
+  <g transform="translate(0 -3)">
+    <animateTransform attributeName="transform" type="translate" values="0 -3;0 5;0 -3" dur="3.2s" repeatCount="indefinite"/>
+    <path d="M480 20L486 38H505L490 49L496 67L480 56L464 67L470 49L455 38H474L480 20Z" fill="#FFCE70" filter="url(#soft)"/>
+    <text x="480" y="97" text-anchor="middle" fill="#F8FBFF" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1">Made by Tabish Syed · Thank you for visiting</text>
+    <text x="480" y="123" text-anchor="middle" fill="#9FF4E5" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">PLEASE VISIT AGAIN</text>
+  </g>
+</svg>
