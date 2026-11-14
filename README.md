@@ -11,6 +11,8 @@
 
 ## About me
 
+<img align="right" alt="Animated developer working at a computer" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
+
 I build projects to understand how modern technology becomes useful software. My current work explores applied machine learning, reinforcement-learning environments, data systems, cloud-aware automation, agent evaluation, and local-first security tools.
 
 I use AI tools for ideation, coding, debugging, testing, documentation, and GitHub automation. I am transparent about that workflow: I define the problem, review the implementation, run the checks, understand the design, and document the limitations of each project.
